@@ -3430,6 +3430,15 @@ input, select, textarea {
 
 	}
 
+/* Between Small and XSmall */
+	@media screen and (max-width: 570px) {
+			ul.major-icons li {
+				display: none;
+			}
+			
+	}
+
+
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
